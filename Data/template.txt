@@ -1,0 +1,7 @@
+Dear Human,
+
+Unusal activity detected in the system at {0}.
+Please checkout the attached screenshot.
+
+Thanks
+Bot
